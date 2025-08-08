@@ -68,3 +68,6 @@ $ pip install -r requirements.txt
 ```
 python medical_assistant_bot.py
 ```
+### Future works
+ * This chat bot could be served with a Flask App but it is not developed here yet
+
